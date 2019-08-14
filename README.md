@@ -1,7 +1,7 @@
 # MINI_SCADA_PCB
 this projects pcb have two parts
 
-1- interface part
+1- interface board
 
 ![alt text](https://github.com/ARoozitalab/MINI_SCADA_PCB/blob/master/interface_pcb/interface.JPG "interface")
 
