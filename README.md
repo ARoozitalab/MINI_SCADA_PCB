@@ -5,7 +5,7 @@ this projects pcb have two parts
 ![alt text](https://github.com/ARoozitalab/MINI_SCADA_PCB/blob/master/interface_pcb/interface.JPG "interface")
 
 2- controller board
-![alt text](https://github.com/ARoozitalab/MINI_SCADA_PCB/blob/master/controller_pcb/controller.PrjPcb "controller")
+![alt text](https://github.com/ARoozitalab/MINI_SCADA_PCB/blob/master/controller_pcb/controller.JPG "controller")
 
 you can see each board and projecte separately
 
